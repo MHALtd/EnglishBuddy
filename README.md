@@ -1,3 +1,10 @@
+# Introduce
+
+Hi, this is a frontend website of our capstone project from Bangkit 2023 H2 program. In my team, I have responsible for developing website frontend page.
+
+- [website demo](https://ielts-ebuddy.netlify.app/)
+- [master repository](https://github.com/taufiqulf/IELTS_Buddy_Web.git)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
